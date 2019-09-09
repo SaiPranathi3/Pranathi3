@@ -1,4 +1,4 @@
-__author__="pranthi"
+__author__="pranathi"
 from selenium import webdriver
 import time
 import unittest
